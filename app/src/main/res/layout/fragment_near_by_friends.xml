@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fl"
+    android:orientation="vertical"
+    tools:context="org.myapp.android.fbtry.NearByFriendsFragment">
+
+   <ListView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:background="@color/red_50"
+       android:divider="@null"
+       android:id="@+id/listView">
+
+   </ListView>
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="16dp"
+        android:src="@drawable/addicon"
+        fab:fab_colorNormal="@color/old_friend"
+        fab:fab_colorPressed="@color/old_friend"/>
+
+</FrameLayout>

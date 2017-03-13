@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-89c224c7b316417b34b9293bcd7f2e1bfd494116.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-b95ba3165348359bb9d94651b8ae81f309d865e4.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-f74c4cefd3d8292d2f99b3c69987d0f5c8eadfaa.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-06edefac3271f18071454b9e5bed46f41db3c223.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-07a80f75dc48561f27d28c7216e353b8bf957d87.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-dfc3d3936359429d6df7447ea379a6d7fe0a98c9.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95373ed729c03b988eb4488d9758287e1ea5d21e">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-c637d3c43d1951c39d6ca76b5387491a67da62b4.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-a6d16f1a78fa5e532ad60c7945476ba35a073e53.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-aed27882b4ce0be88f7ffc5005691f48ecdc9493.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-aca857d53d07ae5346b35cc3264e2390f0189ebc.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-da67ad64578f8a1dfef06a338a5112bdaec1bd41.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-b14e44d5930ee64873a5ae346b90823f5811d02f.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-fe8aea326b6c8eff4eb9618f8040b79a9f72b41d.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-e7289808d8aaff5e4f3b4e8612f84e792c9472fe.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-a357e4548c6b65cad67e3d017c5af091e71f7d96.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-72f185fb3d5110a7c001f61969f96486c76ebacd.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-6d1c739d549675a458a4ca10ab8aa718b4c37021.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-ad3f8a7a543a6ca6945d01ae7295b10161481a4d.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-e37d344c97b13de0b0aee2ae8ba80bbfe49c5f4c.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-ecf2933ece83443b640706d2862fe8409fd0f4d0.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-489831b67e908eab5c9edc542734e98a57502208.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-c62188b546c51996f3dc74718e30cff88f3d3f20.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-cd74615f8b59782419da2469b0808c15db5f4375.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-778ac62aeca96f230931f11c0e581d5c077e0592.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-85419cad435bebdfb705bb46f4546b87dd43d01a.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-a599ed9d67c37cda73f5623fdfc4a373ab2ef294.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-ed0350e8e580fa015ba22a02b3ea73fc6a402384.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-9b5ed66d6f0607eefb0891d141dbae5cf9dd5f66.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-a475a7aa4cd72c5e2b132dc9ed3491cacd69bebc.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-9e846629da346752e08f9a6dd83ec48e4e0b7788.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-acff25558dc3cd64e393b56439581e3749b78074.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-1f75aa73ff0a8babb4f918c20546150dc2651814.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-de7bb6d59c2896101ccc59d2a55fe84e14c89193.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-ebe4748e7152ca0d83acabfa28c7469d90d42a64.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-62ac11d9929eea4918e909e32828d2ba78a9d329.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-8940d0fa0be2659762ee080fee62069aafd8640a.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-8a81a212eafe59742889fd37b517e412231a1cb4.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-e38e433f63a3cb4b8bfeb6a6c2af7e322b09e793.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-3cf9408f74125dfeed7093651f0b18fc31f83a70.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-960db259d278c9d5bdc6dfc685b26412c4363316.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-4ea88b01fdf8fce9dd592906b3af92ac4c1a327e.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-8c0fb30e40b48aeb0ec233dd332f211435313da6.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-0c41070297b23e4a5fba94172e849efb49c97d1b.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-7dedec46cada9fc3c47a8b02647734edcd3791bf.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-20b0de3b25183ea55fbe5cc5a924ac7f1b4e0414.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-ba9d8f1f453d7febdded9d77deb31dcba2f1d457.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95373ed729c03b988eb4488d9758287e1ea5d21e">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-50fe08127ce2a1ad16485052f6cddda8b53fd51d.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-7998cbeebc3407dc951358273540979393fa637e.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/libs/sinch-android-verification-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65b6a8cb4ba101671e3900b727f796937545b64f">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/sinch-android-verification-1.1.2-c77b284778f8296a53a91e053cbaad652b6faab0.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-2ef952e2e59d1bce23ecfc02b1bc36f72d771fb7.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-4711b9f3dc48ef3f5d0b3665e5eb8cde1dd8d866.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-04a31e655c3194d3407946eee3238194a9610d8d.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/libs/sinch-android-verification-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65b6a8cb4ba101671e3900b727f796937545b64f">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/sinch-android-verification-1.1.2-2cf8191f7abdde386d8efd2c60aa7238ae44d472.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-9b7103b9cbe0e46fc24755026cc49512c4995688.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-b9034b0cda9e68897274504366adf2302b27df04.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-2508380168a0fca0348b97cce905b6251f993399.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-0b59d292788653dfd3be299360edd02f191071fe.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-6a4d567ecf5bfe2353fda4b01d43c79ef63eccbb.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-48b238185725818ed863f3038be9afff7eb1cf63.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-c1fb2ed3424823525dc0db0258b46c1968a986cd.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-f0fdbefda9ebbd76f847a054891733a2cf648240.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-d93d3679efb1f6321737ddf6fc9f3c38e9672f4a.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-c289c8c746eff56bd80c1978cb9442a7afe2aebb.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/library-2.4.0-81efede3b2ac46b98b93858d8d45d2ce4249b57a.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-133ad5eedb967140df70f2d256a863aa62fd82a0.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-9d8cc8d67517cdf9f3028f37e985334190d5b89f.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-7562326242e77b7363f714f8c31eae6be53f7984.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-6d945ae6cbcf879f28cfc2ae8d015e860722daa6.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-85f78c567a74025088aa1787d182bf20d412f76e.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-eeb38242c4ee2be788c95f580cbca786451f6aee.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-855029665e3b88027eb0046a2acb54ccbee1e911.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2 copy/app/build/intermediates/pre-dexed/debug/classes-ab8da4136af435bb4a056584774f384120ace0c8.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-a3a2710efeb07cf43eb5e02e25d3185bdd9afa36.jar" />
+    </item>
+    <item
+        jar="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/utkarshnath/Desktop/Fbtry final 2/app/build/intermediates/pre-dexed/debug/classes-c08a3a3465122be3435fab6751d8f3616f3ed732.jar" />
+    </item>
+
+</items>

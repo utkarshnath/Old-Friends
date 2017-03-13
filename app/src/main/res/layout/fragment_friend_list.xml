@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="org.myapp.android.fbtry.FriendList">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/Feed_swipe_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <!--<include layout="@layout/app_bar"-->
+        <!--android:id="@+id/app_bar"></include>-->
+        <!-- TODO: Update blank fragment layout -->
+        <!--<TextView android:layout_width="match_parent" android:layout_height="0dp"-->
+        <!--android:layout_weight="1"-->
+        <!--android:text="@string/HotOffers"-->
+        <!--android:layout_marginTop="12dp"-->
+        <!--android:layout_marginBottom="12dp"-->
+        <!--android:layout_marginLeft="6dp"-->
+
+        <!--android:textSize="20sp"-->
+        <!--android:textColor="@color/primary_text"/>-->
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/red_50"
+            android:divider="@null"
+            android:id="@+id/listView"></ListView>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</FrameLayout>

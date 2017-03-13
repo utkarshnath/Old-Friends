@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/old_friend</item>
+        <item name="colorPrimaryDark">@color/red_900</item>
+        <item name="colorAccent">@color/yellow_A800</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Logintheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/fab_drawable_background</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

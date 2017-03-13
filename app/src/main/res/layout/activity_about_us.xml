@@ -1,0 +1,79 @@
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red_50"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:textColor="@color/blue_grey_800"
+            android:text="Who we are:"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="Hello there! A team of two, Divyanshu and Prince started thinking about how to connect people who are occupied
+in their everday lives and cannot somehow meet in person. The solution lies in empowering people with a tool to find where their friends are, which marks the beginning of Old Friends."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:paddingTop="10dp"
+            android:text="About:"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="An android based application that helps you find friends and loved ones close to your location. Features include:"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="* Get notified when your friends leave or arrive close to you"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="* Set Range preference for location tracking"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="* Battery-friendly loaction calculation and history"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="* User-friendly"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_grey_800"
+            android:text="* Share among your friends and family"/>
+
+
+        <TextView android:text="Please share your suggestions/feedback with us at: oldfriendsapp@gmail.com"
+            android:layout_width="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/blue_grey_800"
+            android:paddingTop="10dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+
+
+</ScrollView>

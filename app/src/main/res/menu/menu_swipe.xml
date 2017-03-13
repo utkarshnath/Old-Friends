@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.myapp.android.fbtry.SwipeActivity">
+
+    <item android:id="@+id/uploadDp"
+        android:title="Set profile pic"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/Profile"
+        android:title="View Profile"
+        android:orderInCategory="110"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/sendInvitation"
+        android:title="Send Invitation"
+        android:orderInCategory="120"
+        app:showAsAction="never" />
+    <item android:id="@+id/aboutUs"
+        android:title="About Us"
+        android:orderInCategory="130"
+        app:showAsAction="never" />
+
+</menu>
